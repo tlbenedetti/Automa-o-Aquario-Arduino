@@ -1,4 +1,4 @@
-# Automa-o-Aquario-Arduino
+# Automacao-Aquario-Arduino
 primeiro projeto no arduino
 
 
